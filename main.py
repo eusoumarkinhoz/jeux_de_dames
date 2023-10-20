@@ -1,1 +1,7 @@
-print("yyyyyozhfzoe")
+from classes.board import Board
+
+board = Board()
+
+
+
+
